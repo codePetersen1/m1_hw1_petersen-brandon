@@ -1,5 +1,5 @@
 # My First Coding Assignment #
-![picture alt](https://media.giphy.com/media/jppUYGHWYVrJS/giphy.gif) 
+![Nervous Kermit](https://media.giphy.com/media/jppUYGHWYVrJS/giphy.gif) 
 ## About Me ##
 I love digital design and creating with computers. I'm looking forward to taking my interests and finding ways to incorporate them into web design.
 ## Past Coding Experience ##
